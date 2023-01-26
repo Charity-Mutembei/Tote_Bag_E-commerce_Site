@@ -1,0 +1,57 @@
+/* todo: delete file if not needed */
+/* #f5f7fa */
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css?family=SpaceGrotesk&display=swap');
+
+.motherSection{
+    background-color: #f5f7fa;
+    margin-top: -4vw;
+
+}
+.container1{
+    display: flex;
+    flex-direction: column;
+    padding: 6vw;
+}
+#secondPart{
+    margin-top: 15%;
+}
+.firstHeading{
+    display: grid;
+    align-items: center;
+    place-items: center;
+}
+.firstHeading h1{
+    font-size: 4.5vw;
+}
+.explanationParagraph{
+    margin-bottom: 2vw;
+    display: grid;
+    align-items: center;
+    place-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+.explanationParagraph p{
+    font-size: 1.1vw;
+    text-align: center;
+}
+.homePageButton{
+    display: grid;
+    align-items: center;
+    place-items: center;
+}
+.homePageButton button{
+    width: 16vw;
+    height: 4vw;
+    display: grid;
+    align-items: center;
+}
+.grid-template1{
+    padding: 1vw;
+}
+@media only screen and (min-width: 768px){
+    .container1{
+        display: flex;
+        flex-direction: row;
+    }
+}
