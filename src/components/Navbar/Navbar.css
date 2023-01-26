@@ -1,0 +1,48 @@
+/* todo: delete file if not needed */
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css?family=SpaceGrotesk&display=swap');
+
+.mainSection{
+    font-family: 'Poppins', sans-serif;
+    margin-top: -5vw;
+    display: flex;
+    flex-direction: column;
+}
+.grid-template{
+    padding: 2vw 0vw 4vw 4vw;
+    margin-top: 5vw;
+    margin-left: 4vw;
+}
+.grid-template a{
+    text-decoration: none;
+    color: black;
+}
+.grid-template button{
+    width: 10vw;
+    height: 3vw;
+    border: solid white ;
+    background-color: black;
+    color: white;
+    font-size: 1.1vw;
+    margin-top: -1vw;
+}
+ @media only screen and (min-width: 768px){
+    .mainSection{
+        display: flex;
+        flex-direction: row;
+    }
+    .grid-template button{
+        width: 10vw;
+        height: 3vw;
+        border: solid white ;
+        background-color: black;
+        color: white;
+        font-size: 1.1vw;
+        margin-top: -1vw;
+    }
+ }
+
+.grid-template1 .brandLogo img {
+    width: 18vw;
+    height: 18vw;
+}
