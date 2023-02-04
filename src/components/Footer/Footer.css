@@ -1,5 +1,12 @@
 /* todo: delete file if not needed */
+/* todo: delete file if not needed */
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css?family=SpaceGrotesk&display=swap');
+
+
+
 .generalFooterSection{
+    font-family: 'Poppins', sans-serif;
     background-color: #f5f7fa;
     display: flex;
     align-items: center;
@@ -17,6 +24,7 @@
 }
 
 .sectionCopyright{
+    font-family: 'Poppins', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
