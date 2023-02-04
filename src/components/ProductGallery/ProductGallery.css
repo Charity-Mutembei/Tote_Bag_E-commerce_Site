@@ -9,7 +9,8 @@
     justify-content: center;
 }
 .gallery-template img {
-    max-width: 17vmin;
-  min-width: 19vmax;
+    max-width: 16vmin;
+  min-width: 20vmax;
+  border-radius: 2vw;
   padding: .5vw;
 }

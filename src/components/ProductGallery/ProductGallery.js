@@ -21,6 +21,11 @@ import tote23 from './Assets/tote23.jpeg';
 import tote24 from './Assets/tote24.png';
 import tote25 from './Assets/tote29.jpeg';
 import tote26 from './Assets/tote30.jpeg';
+import tote27 from './Assets/tote31.jpeg';
+import tote28 from './Assets/tote32.jpeg';
+import tote29 from './Assets/tote33.jpeg';
+import tote30 from './Assets/tote34.jpeg';
+
 
 const ProductGallery = props => (
 	<div className='overallSection'>
@@ -45,6 +50,10 @@ const ProductGallery = props => (
 			<img src={tote24} alt="firstStock"/>
 			<img src={tote25} alt="firstStock"/>
 			<img src={tote26} alt="firstStock"/>
+			<img src={tote27} alt="firstStock"/>
+			<img src={tote28} alt="firstStock"/>
+			<img src={tote29} alt="firstStock"/>
+			<img src={tote30} alt="firstStock"/>
 		</div>
 	</div>
 );
