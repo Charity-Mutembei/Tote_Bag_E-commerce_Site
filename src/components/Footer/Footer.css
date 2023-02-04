@@ -1,0 +1,23 @@
+/* todo: delete file if not needed */
+.generalFooterSection{
+    background-color: #f5f7fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#logoFooterImage{
+    width: 18vw;
+    height: 18vw;
+}
+.iconSection{
+    display: flex;
+}
+.iconSection .column-template{
+    padding-right: 1vw;
+}
+
+.sectionCopyright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
