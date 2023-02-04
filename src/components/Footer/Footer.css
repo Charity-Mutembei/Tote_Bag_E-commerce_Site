@@ -22,8 +22,8 @@
 .iconSection .column-template{
     padding-right: 1vw;
 }
-
 .sectionCopyright{
+    background-color: #f5f7fa;
     font-family: 'Poppins', sans-serif;
     display: flex;
     align-items: center;

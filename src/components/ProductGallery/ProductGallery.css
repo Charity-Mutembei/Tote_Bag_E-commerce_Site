@@ -1,0 +1,15 @@
+/* todo: delete file if not needed */
+.overallSection{
+    padding-bottom: 5vw;
+    padding-top: 5vw;
+}
+.gallery-template{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.gallery-template img {
+    max-width: 17vmin;
+  min-width: 19vmax;
+  padding: .5vw;
+}
