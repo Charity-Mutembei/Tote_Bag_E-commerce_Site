@@ -6,6 +6,7 @@
 .motherSection{
     background-color: #f5f7fa;
     margin-top: -4vw;
+    overflow: hidden;
 
 }
 .container1{
